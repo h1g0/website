@@ -1,0 +1,31 @@
+{{ $original := .Page.Resources.GetMatch (.Get "src") }}
+{{ $mode := default "Resize" (.Get "mode")}}
+{{ $size := default "512x" (.Get "size")}}
+{{ $title := default "" (.Get "title") }}
+{{ $alt := default "" (.Get "alt") }}
+
+{{ if eq $mode "Fit"}}
+{{    .Scratch.Set "image" ($original.Fit $size) }}
+{{ else if eq $mode "Resize"}}
+{{    .Scratch.Set "image" ($original.Resize $size) }}
+{{ else if eq $mode "Fill"}}
+{{    .Scratch.Set "image" ($original.Fill $size) }}
+{{ else }}
+{{    errorf "Invalid image processing mode: Must be one of Fit, Fill or Resize."}}
+{{ end }}
+{{ $image := .Scratch.Get "image" }}
+<figure style="width: {{ add $image.Width 3 }}px; padding: 3px; background-color: #cccc;">
+  <a href ="{{ $original.RelPermalink }}">
+  <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" width="{{ $image.Width }}"
+       height="{{ $image.Height }}">
+  </a>
+  <figcaption>
+    <small>
+      {{ with .Inner }}
+      {{ . }}
+      {{ else }}
+      {{ $title }}
+      {{ end }}
+    </small>
+  </figcaption>
+</figure>

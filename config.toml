@@ -3,7 +3,7 @@ DefaultContentLanguage  = "ja"
 title                   = "Cluttered Room"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -23,7 +23,7 @@ disableLanguages        = [""]
   # Sets options for highlight.js
   highlightjs           = true
   highlightjsTheme      = "github"
-  highlightjsLang       = ["js", "rust", "latex", "python"]
+  highlightjsLang       = ["javascript", "js", "rust", "tex", "python"]
   # Sets where "View More Posts" links to
   viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
