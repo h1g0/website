@@ -1,4 +1,4 @@
-baseurl                 = "https://h1go.github.io/"
+baseurl                 = "https://clutte.red/"
 DefaultContentLanguage  = "ja"
 title                   = "Cluttered Room"
 theme                   = "hugo-future-imperfect-slim"
@@ -34,7 +34,7 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = ""
+    description         = "技術系の話題を中心に、残しておきたいメモとか「とりあえず書いておけば誰かの役に立つかもしれない」小さなノウハウなどを書き留めておくサイトです。"
     # Sets the meta tag author
     author              = "hi_go"
     # If you would like to add more comprehensive favicon support passed root
@@ -173,3 +173,6 @@ disableLanguages        = [""]
     noClasses = true
     style = "monokai"
     tabWidth = 4
+
+[blackfriday]
+  hrefTargetBlank = true
