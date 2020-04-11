@@ -23,7 +23,7 @@ Pythonの`filecmp`は引数に`shallow = True`
 
 となっている[^1]。
 
-[^1]: https://github.com/python/cpython/blob/3.7/Lib/filecmp.py
+[^1]: [https://github.com/python/cpython/blob/3.7/Lib/filecmp.py](https://github.com/python/cpython/blob/3.7/Lib/filecmp.py)
 
 引数の`st`は`os.stat_result`オブジェクトであるので、`st_mode`、 `st_size`、 `st_mtime`の3つから同じファイルか判断していることになる。
 

@@ -173,6 +173,3 @@ disableLanguages        = [""]
     noClasses = true
     style = "monokai"
     tabWidth = 4
-
-[blackfriday]
-  hrefTargetBlank = true
