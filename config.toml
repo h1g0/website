@@ -18,10 +18,10 @@ disableLanguages        = [""]
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
-  cssFiles              = ["default"]
-  jsFiles               = ["default","/js/highlightjs-line-numbers.min.js"]
+  cssFiles              = ["default","/css/syntax.css"]
+  jsFiles               = ["default"]
   # Sets options for highlight.js
-  highlightjs           = true
+  highlightjs           = false
   highlightjsTheme      = "github"
   highlightjsLang       = ["javascript", "js", "rust", "tex", "python"]
   # Sets where "View More Posts" links to
@@ -161,3 +161,15 @@ disableLanguages        = [""]
   # Coding Communities
   github                = "h1g0"
   email                 = "me（あっと）clutte.red"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
