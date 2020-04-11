@@ -6,7 +6,9 @@ categories: [ "Rust" ]
 tags: [ "Rust" ]
 ---
 
-Windows 10に`rustup-inst.exe`を使ってRust((厳密にはrustup))をインストールしようとしたところ、`アクセスが拒否されました。(os error 5)`のエラーが出てインストールできなかった。それを解決した際のメモ。
+Windows 10に`rustup-inst.exe`を使ってRust[^1]をインストールしようとしたところ、`アクセスが拒否されました。(os error 5)`のエラーが出てインストールできなかった。それを解決した際のメモ。
+
+[^1]: 厳密にはrustup
 
 なお、インストールしようとしたrustupのバージョンは
 
