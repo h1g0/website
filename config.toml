@@ -4,7 +4,7 @@ title                   = "Cluttered Room"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 5
-disqusShortname         = ""
+disqusShortname         = "cluttered-room"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
@@ -19,7 +19,7 @@ disableLanguages        = [""]
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
   cssFiles              = ["default"]
-  jsFiles               = ["default"]
+  jsFiles               = ["default","/js/highlightjs-line-numbers.min.js"]
   # Sets options for highlight.js
   highlightjs           = true
   highlightjsTheme      = "github"
@@ -62,12 +62,12 @@ disableLanguages        = [""]
     header                = "Cluttered Room"
     paragraph             = "雑然とした部屋"
     rssIntro              = false
-    socialIntro           = false
+    socialIntro           = true
     # You may not want to display a long intro above content in the
     # single column layout used on smaller screens.
-    hideWhenSingleColumn  = false
+    hideWhenSingleColumn  = true
     # But you may want to always display the intro on the homepage.
-    alwaysOnHomepage      = false
+    alwaysOnHomepage      = true
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
@@ -142,13 +142,6 @@ disableLanguages        = [""]
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
-
 [Languages]
   # Each language has its own menu.
   [Languages.en]
@@ -167,4 +160,4 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "h1g0"
-  email                 = "me@clutte.red"
+  email                 = "me（あっと）clutte.red"
