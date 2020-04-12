@@ -7,7 +7,7 @@ paginate                = 5
 disqusShortname         = "cluttered-room"
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = ["de","es","fr","pl","pt","zh-cn","zh-tw"]
 
 [params]
   # Add additional section names to mainSections to include posts from
