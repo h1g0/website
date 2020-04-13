@@ -8,6 +8,7 @@ disqusShortname         = "cluttered-room"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["de","es","fr","pl","pt","zh-cn","zh-tw"]
+HasCJKLanguage = true
 
 [params]
   # Add additional section names to mainSections to include posts from
@@ -28,6 +29,8 @@ disableLanguages        = ["de","es","fr","pl","pt","zh-cn","zh-tw"]
   viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
+  wordCount = true
+
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = ["twitter", "facebook", "linkedin", "email"]
