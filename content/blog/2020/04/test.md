@@ -7,6 +7,8 @@ tags: [ "Misc" ]
 
 このサイトのフレームワークをWordPressから[Hugo](https://gohugo.io/)に乗り換えてみた。
 
+<!--more-->
+
 その理由として、
 
 - Markdownでコンテンツを書ける

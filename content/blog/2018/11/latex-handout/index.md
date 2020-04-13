@@ -10,6 +10,8 @@ tags: [ "LaTeX" ]
 BeamerなどLaTeXでスライドを作成している場合も，そういったPowerPointのようなハンドアウトもできればLaTeXで作りたい．
 そういう時の解決法．
 
+<!--more-->
+
 [pdfpages](https://ctan.org/pkg/pdfpages)パッケージを使ってスライドのPDF（下記のコードでは`main.pdf`）を読み込んで配置する．
 
 ```tex

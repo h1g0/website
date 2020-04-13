@@ -9,6 +9,8 @@ tags: [ "Javascript" ]
 月や日付を2ケタに揃えて出したり、曜日を漢字1字で出したりする。
 割とよく使うコードなのでsnippet的に。
 
+<!--more-->
+
 ```javascript
 var today = new Date();
 

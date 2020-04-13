@@ -8,6 +8,8 @@ tags: [ "LaTeX" ]
 
 LaTeXの表（table環境）でキャプションを左寄せにするなど，カスタマイズする方法について．
 
+<!--more-->
+
 具体的には
 
 {{< img src="latex_normaltable.png"/>}}

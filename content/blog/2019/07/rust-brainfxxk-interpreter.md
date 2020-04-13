@@ -10,6 +10,8 @@ tags: [ "Rust" ]
 といっても、普通に`println!("Hello, world!");`するだけでは何も面白くない。  
 なので[Brainf*ck](https://ja.wikipedia.org/wiki/Brainfuck)で、インタプリタと一緒に。
 
+<!--more-->
+
 コードは（今のところ）こんな感じ。そしてideoneによる実行結果は[こんな感じ](https://ideone.com/C2luoc)。ちなみにGithubにも[上げてある](https://github.com/h1g0/rust-brainfxxk-interpreter/)。
 
 ```rust
