@@ -47,7 +47,7 @@ $ cargo new --bin sudachi_test
 path = "../sudachi.rs/"
 ```
 
-こんな感じでsudachi.rsへのパスを教えてやる。
+こんな感じでsudachi.rsへの相対パスを教えてやる。
 
 そして`src/main.rs`を開き、
 
