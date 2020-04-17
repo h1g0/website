@@ -59,7 +59,7 @@ use sudachi::tokenizer::Tokenizer;
 fn main() {
     let txt = "東海の小島の磯の白砂にわれ泣きぬれて蟹とたはむる";
 
-    let bytes = include_bytes!("..\\..\\sudachi.rs\\src\\resources\\system.dic");
+    let bytes = include_bytes!("../../sudachi.rs/src/resources/system.dic");
     let tokenizer = Tokenizer::new(bytes);
 
     let morpheme_list = tokenizer.tokenize(&String::from(txt), &Mode::C, false);
