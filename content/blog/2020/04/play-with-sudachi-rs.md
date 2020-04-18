@@ -2,7 +2,7 @@
 title: "sudachi.rsを使って遊んでみる（ための下準備）"
 date: 2020-04-16T23:52:11+09:00
 categories: [ "Rust" ]
-tags: [ "Rust","sudachi" ]
+tags: [ "Rust","自然言語処理","sudachi" ]
 draft: false
 ---
 
@@ -96,6 +96,19 @@ fn main() {
 と、実に簡単に分かち書きと読みがなの付与ができた[^3]。
 
 [^3]: 「白砂（しらすな）」を「はくしゃ」としているが、これは十分許容範囲であるように思われる。
+
+## 利用できる関数
+
+分割された各形態素に対して利用できる関数は次の通り[^4]。
+
+- `surface`:分割された後の形態素
+- `pos`:その形態素に関する情報
+- `normalized_form`: 正規化された形
+- `reading_form`: 読みがな
+- `dictionary_form`: 辞書形
+
+[^4]: [https://github.com/sorami/sudachi.rs/blob/develop/src/morpheme.rs](https://github.com/sorami/sudachi.rs/blob/develop/src/morpheme.rs)
+
 
 ## ここまでの感想
 
