@@ -3,7 +3,7 @@ title: "LaTeXでビジネス文書を書く"
 date: 2018-11-05T00:00:00+09:00
 draft: false
 categories: [ "LaTeX" ]
-tags: [ "LaTeX" ]
+tags: [ "LaTeX", "business", "document" ]
 ---
 
 LaTeXでビジネス文章を書くためのテンプレート的な，ちょっとしたスタイルファイルを書いた[^1]．
@@ -11,6 +11,8 @@ LaTeXでビジネス文章を書くためのテンプレート的な，ちょっ
 [^1]: 正確に言えば以前必要に迫られて書いたものを，せっかく始めたブログのネタにでもと思いスタイルファイルとして独立させた．
 
 スタイルファイルの詳細やダウンロード等は[GitHub]( https://github.com/h1g0/latex_jbusinessdoc )へ．
+
+## 使用例
 
 ```tex
 \documentclass[uplatex,a4j,fleqn,12pt]{jsarticle}
@@ -48,4 +50,17 @@ LaTeXでビジネス文章を書くためのテンプレート的な，ちょっ
 
 こんな感じで出力される．
 
-「こういうビジネス文書を作りたいけどWordは使いたくない，できればLaTeXで書きたい」って人は意外と多いんじゃないかと思ってググったけど，それらしいノウハウがあまり出てこなかったので．
+## 使い方
+
+
+1. 普通のLaTeX文章を用意する（pLaTeXもしくはupLaTeXでjsarticleを使用することを想定してるので，それ以外だと上手く動かないかも）．
+2. [ここ](https://github.com/h1g0/latex_jbusinessdoc)から`jbusinessdoc.sty`をダウンロードする
+3. `jbusinessdoc.sty` をそのLaTeX文書のビルドが通る場所（例えば`.tex`ファイルと同じディレクトリ）に置く
+4. プリアンブルに`\usepackage{jbusinessdoc}`と書く
+5. `\title`，`\author`，`\date`のほかに，宛先を書くための`\destination`を書く
+6. 必要があれば文章番号となる`\documentnumber`も書く（省略可）
+7. 普通のLaTeXファイルと同じようにビルドする
+
+## その他
+
+「こういうビジネス文書を作りたいけどWordは使いたくない，できればLaTeXで書きたい」って人は（自分の他にも）意外と多いんじゃないかと思ってググったけど，それらしいノウハウがあまり出てこなかったので，そういう人の役に立てば．
