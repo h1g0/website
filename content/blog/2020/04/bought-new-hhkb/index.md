@@ -6,15 +6,24 @@ tags: [ "Gadgets","Review","HHKB" ]
 draft: false
 ---
 
-1ヶ月ほど前に[Happy Hacking Keyboard (HHKB) Professional HYBRID Type-S](https://www.pfu.fujitsu.com/direct/hhkb/detail_pd-kb800ws.html)を買った。
+{{<rawhtml>}}
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g0-22&linkId=22397e096072672c94ff6b313312caa3"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B082TQK2SB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=h1g0-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=h1g0-22&l=am2&o=9&a=B082TQK2SB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{{</rawhtml>}}
+
+1ヶ月ほど前に[Happy Hacking Keyboard (HHKB) Professional HYBRID Type-S](https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g0-22&linkId=21f40dc63d372375ef0f963aa94ecdbe)を買った。
 なので買った経緯とか1ヶ月使った感想とか現在のキーマッピングとかをメモしていきたい。
 
 <!--more-->
 
 ## 購入に至る経緯
 
-自分は今まで仕事ではHHKB Professional2 Type-Sを、
-自宅では[Majestouch MINILA Air](https://www.diatec.co.jp/products/det.php?prod_c=1471)を使っていた。
+自分は今まで仕事では[HHKB Professional2 Type-S](https://www.amazon.co.jp/gp/product/B07K9DVP46/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07K9DVP46&linkCode=as2&tag=h1g0-22&linkId=e7bb893313be076d4f63e0b8d7c9b96e)を、
+自宅では[Majestouch MINILA Air](https://www.amazon.co.jp/gp/product/B00F3V846I/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00F3V846I&linkCode=as2&tag=h1g0-22&linkId=ef61bdb049e59c2d98fdaf10203ce1a0)を使っていた。
+
+{{<rawhtml>}}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g0-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00F3V846I&linkId=03793af866bc74e7ad82a8a5c519f6a4&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+{{</rawhtml>}}
 
 そんな中、昨今のリモートワークの流れで、自分も自宅で仕事をせざるを得なくなった。
 そこで「いつもやっている仕事は、やはりHHKBでやりたい」ということで、自宅にHHKBを持ち帰った。
@@ -94,3 +103,8 @@ HHKBも、それかそれに近いキー配置の製品を発売してほしい�
 とアピールしており、他の会社が追従するのは（権利上）難しいのかもしれない。
 
 サードパーティや同人で改造キットを出してくれる所があれば嬉しいなあ……。
+
+{{<rawhtml>}}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g0-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082TQK2SB&linkId=0d6a6d0074c27721ea42cd0fd10ce0f9&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+{{</rawhtml>}}
