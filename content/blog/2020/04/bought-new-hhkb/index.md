@@ -20,11 +20,6 @@ draft: false
 自分は今まで仕事では[HHKB Professional2 Type-S](https://www.amazon.co.jp/gp/product/B07K9DVP46/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07K9DVP46&linkCode=as2&tag=h1g0-22&linkId=e7bb893313be076d4f63e0b8d7c9b96e)を、
 自宅では[Majestouch MINILA Air](https://www.amazon.co.jp/gp/product/B00F3V846I/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00F3V846I&linkCode=as2&tag=h1g0-22&linkId=ef61bdb049e59c2d98fdaf10203ce1a0)を使っていた。
 
-{{<rawhtml>}}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g0-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00F3V846I&linkId=03793af866bc74e7ad82a8a5c519f6a4&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-{{</rawhtml>}}
-
 そんな中、昨今のリモートワークの流れで、自分も自宅で仕事をせざるを得なくなった。
 そこで「いつもやっている仕事は、やはりHHKBでやりたい」ということで、自宅にHHKBを持ち帰った。
 
