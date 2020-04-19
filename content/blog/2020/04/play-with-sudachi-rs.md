@@ -114,3 +114,10 @@ fn main() {
 
 わずか数行のコードで、とても簡単に自然言語処理の第一歩を踏み出すことができた。
 ここから更に色々遊べそうである。
+
+## 追記
+
+[sudachiclone-rs](https://github.com/Yasu-umi/sudachiclone-rs)という、別の方が作成したSudachiのRustクローン[^5]もあるらしい。
+そしてこちらは[crates.io](https://crates.io/)に[登録](https://crates.io/crates/sudachiclone)されているようだ。
+
+[^5]:正確にはSudachiPyのRustクローン
