@@ -32,3 +32,7 @@ reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution 
 
 とする。
 そして上記コマンドを管理者権限のコマンドプロンプトで実行すれば、無事置き換えが完了する。
+
+{{<rawhtml>}}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g0-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873113822&linkId=9527b1bf60f5733bf69d4726401ae938"></iframe>
+{{</rawhtml>}}

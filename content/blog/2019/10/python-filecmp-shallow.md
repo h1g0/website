@@ -29,6 +29,12 @@ Pythonの`filecmp`は引数に`shallow = True`
 
 引数の`st`は`os.stat_result`オブジェクトであるので、`st_mode`、 `st_size`、 `st_mtime`の3つから同じファイルか判断していることになる。
 
-このうち、 `st_mode`はファイルタイプとファイルモード((ディレクトリか？ファイルか？シンボリックリンクか？etc.))の判定であるので、実質的には`st_size`、つまりファイルサイズと、`st_mtime`、つまり最終更新日時で判定していることになる。
+このうち、 `st_mode`はファイルタイプとファイルモード[^2]の判定であるので、実質的には`st_size`、つまりファイルサイズと、`st_mtime`、つまり最終更新日時で判定していることになる。
+
+[^2]:ディレクトリか？ファイルか？シンボリックリンクか？etc.
 
 なお、`shallow = False`として「深い」ファイル比較を行うと、文字通り **バイト単位でファイルの同一性をチェック**する。当然ながら「浅い」ファイル比較よりも処理に時間がかかるが、より確実性を求める場合はこちらを使用することも検討すべきかもしれない。
+
+{{<rawhtml>}}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g0-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873117380&linkId=3cf7dcb6b89b0132bc21502a73f207f2"></iframe>
+{{</rawhtml>}}
