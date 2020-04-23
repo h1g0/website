@@ -11,7 +11,7 @@ draft: false
 {{</rawhtml>}}
 
 1ヶ月ほど前に[Happy Hacking Keyboard (HHKB) Professional HYBRID Type-S](https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g0-22&linkId=21f40dc63d372375ef0f963aa94ecdbe)を買った。
-なので買った経緯とか1ヶ月使った感想とか現在のキーマッピングとかをメモしていきたい。
+なので買った経緯とか1ヶ月使った感想（簡単なレビュー）とか現在のキーマッピングとかをメモしていきたい。
 
 <!--more-->
 
@@ -98,6 +98,34 @@ HHKBも、それかそれに近いキー配置の製品を発売してほしい�
 とアピールしており、他の会社が追従するのは（権利上）難しいのかもしれない。
 
 サードパーティや同人で改造キットを出してくれる所があれば嬉しいなあ……。
+
+## 追記
+
+使い始めてから1ヶ月と1週間ほど経ったところで、バッテリ（購入時に付属していた単3電池×2）が切れた。
+メーカーの公称値では
+
+>アルカリ乾電池使用時の目安：約3カ月（当社環境でのテスト値であり、保証値ではありません）
+
+となっており、それと比べるとだいぶ短いような気もする。
+しかし
+- 毎日12時間程度使っていた
+- 省電力モードをオフ（DIPスイッチ6をON）にしていた[^3]
+
+ことを考えると、まあこんなものかなあ、という気もする。
+
+[^3]: 省電力モードをオン（デフォルト）にすると、BT接続した場合でしばらく放置した場合に自動的に電源が切れる。そして入力前に電源ボタンを長押して電源を入れなければならず少し面倒。オフにすると、どれかのキーを押すだけでBTを再接続する。
+
+そして内蔵バッテリではなく敢えて単3電池という選択をしたのは素晴らしいと思う。
+HHKBは何年も使うものである一方、内蔵バッテリは劣化の不安があり、劣化した場合の交換が面倒なことが予期されるためである。
+
+単3電池であれば入手も交換も用意であるし、いちいち電池を買うのが面倒であれば
+
+{{<rawhtml>}}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g0-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HCSBX4V&linkId=4abdc5509873b82e6a3e2196d58098c2"></iframe>
+{{</rawhtml>}}
+
+このようなリチャージャブルな電池を使うという選択肢もある。
+また、もし使用中にバッテリが切れてしまった場合でも、USBに接続すれば使用し続けることが可能なのも安心できる（ちなみに、モバイルバッテリからHHKBのUSBポートに接続して給電することも可能である）。
 
 {{<rawhtml>}}
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g0-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082TQK2SB&linkId=0d6a6d0074c27721ea42cd0fd10ce0f9&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
