@@ -7,18 +7,18 @@ draft: false
 ---
 
 {{<rawhtml>}}
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g0-22&linkId=22397e096072672c94ff6b313312caa3"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B082TQK2SB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=h1g0-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=h1g0-22&l=am2&o=9&a=B082TQK2SB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g00d-22&linkId=22397e096072672c94ff6b313312caa3"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B082TQK2SB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=h1g00d-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=h1g00d-22&l=am2&o=9&a=B082TQK2SB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 {{</rawhtml>}}
 
-1ヶ月ほど前に[Happy Hacking Keyboard (HHKB) Professional HYBRID Type-S](https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g0-22&linkId=21f40dc63d372375ef0f963aa94ecdbe)を買った。
+1ヶ月ほど前に[Happy Hacking Keyboard (HHKB) Professional HYBRID Type-S](https://www.amazon.co.jp/gp/product/B082TQK2SB/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B082TQK2SB&linkCode=as2&tag=h1g00d-22&linkId=21f40dc63d372375ef0f963aa94ecdbe)を買った。
 なので買った経緯とか1ヶ月使った感想（簡単なレビュー）とか現在のキーマッピングとかをメモしていきたい。
 
 <!--more-->
 
 ## 購入に至る経緯
 
-自分は今まで仕事では[HHKB Professional2 Type-S](https://www.amazon.co.jp/gp/product/B07K9DVP46/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07K9DVP46&linkCode=as2&tag=h1g0-22&linkId=e7bb893313be076d4f63e0b8d7c9b96e)を、
-自宅では[Majestouch MINILA Air](https://www.amazon.co.jp/gp/product/B00F3V846I/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00F3V846I&linkCode=as2&tag=h1g0-22&linkId=ef61bdb049e59c2d98fdaf10203ce1a0)を使っていた。
+自分は今まで仕事では[HHKB Professional2 Type-S](https://www.amazon.co.jp/gp/product/B07K9DVP46/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07K9DVP46&linkCode=as2&tag=h1g00d-22&linkId=e7bb893313be076d4f63e0b8d7c9b96e)を、
+自宅では[Majestouch MINILA Air](https://www.amazon.co.jp/gp/product/B00F3V846I/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00F3V846I&linkCode=as2&tag=h1g00d-22&linkId=ef61bdb049e59c2d98fdaf10203ce1a0)を使っていた。
 
 そんな中、昨今のリモートワークの流れで、自分も自宅で仕事をせざるを得なくなった。
 そこで「いつもやっている仕事は、やはりHHKBでやりたい」ということで、自宅にHHKBを持ち帰った。
@@ -121,13 +121,13 @@ HHKBは何年も使うものである一方、内蔵バッテリは劣化の不�
 単3電池であれば入手も交換も用意であるし、いちいち電池を買うのが面倒であれば
 
 {{<rawhtml>}}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g0-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HCSBX4V&linkId=4abdc5509873b82e6a3e2196d58098c2"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g00d-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HCSBX4V&linkId=4abdc5509873b82e6a3e2196d58098c2"></iframe>
 {{</rawhtml>}}
 
 このようなリチャージャブルな電池を使うという選択肢もある。
 また、もし使用中にバッテリが切れてしまった場合でも、USBに接続すれば使用し続けることが可能なのも安心できる（ちなみに、モバイルバッテリからHHKBのUSBポートに接続して給電することも可能である）。
 
 {{<rawhtml>}}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g0-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082TQK2SB&linkId=0d6a6d0074c27721ea42cd0fd10ce0f9&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=h1g00d-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082TQK2SB&linkId=0d6a6d0074c27721ea42cd0fd10ce0f9&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe>
 {{</rawhtml>}}
