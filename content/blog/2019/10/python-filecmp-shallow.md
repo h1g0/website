@@ -36,5 +36,5 @@ Pythonの`filecmp`は引数に`shallow = True`
 なお、`shallow = False`として「深い」ファイル比較を行うと、文字通り **バイト単位でファイルの同一性をチェック**する。当然ながら「浅い」ファイル比較よりも処理に時間がかかるが、より確実性を求める場合はこちらを使用することも検討すべきかもしれない。
 
 {{<rawhtml>}}
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g00d-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873117380&linkId=3cf7dcb6b89b0132bc21502a73f207f2"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=h1g0-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873117380&linkId=3cf7dcb6b89b0132bc21502a73f207f2"></iframe>
 {{</rawhtml>}}
