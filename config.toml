@@ -7,8 +7,11 @@ paginate                = 5
 disqusShortname         = "cluttered-room"
 googleAnalytics         = "UA-164022455-1"
 pluralizeListTitles     = false
-disableLanguages        = ["de","es","fr","pl","pt","zh-cn","zh-tw"]
+disableLanguages        = []
 HasCJKLanguage = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
   # Add additional section names to mainSections to include posts from
@@ -55,7 +58,7 @@ HasCJKLanguage = true
     navbarTitle         = "Cluttered Room"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
-    searchMenu          = true
+    searchMenu          = false
     shareMenu           = true
     languageMenu        = false
 
