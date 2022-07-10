@@ -50,8 +50,8 @@ HasCJKLanguage = true
     favicon             = true
     svg                 = false
     # faviconVersion      = "1"
-    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+    msColor             = "#3b3b3b" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#3b3b3b" # Copy from the https://realfavicongenerator.net
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
