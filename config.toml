@@ -48,10 +48,10 @@ HasCJKLanguage = true
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
     favicon             = true
-    svg                 = false
+    svg                 = true
     # faviconVersion      = "1"
-    msColor             = "#3b3b3b" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#3b3b3b" # Copy from the https://realfavicongenerator.net
+    msColor             = "#3c3b3b" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#3c3b3b" # Copy from the https://realfavicongenerator.net
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
