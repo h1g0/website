@@ -63,7 +63,7 @@ HasCJKLanguage = true
     languageMenu        = false
 
   [params.header.logo]
-      src                 = "/img/main/site_logo.png"
+      src                 = "/img/main/site_logo.svg"
       height               = "24"
       alt                 = "Cluttered Room"
 
