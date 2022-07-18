@@ -1,23 +1,17 @@
 +++
-title = "このサイトについて / About"
+title = "About"
 date = "2022-07-18"
 layout = "about"
 +++
 
-技術系の話題を中心に、残しておきたいメモとか「とりあえず書いておけば誰かの役に立つかもしれない」小さなノウハウなどを書き留めておくサイトです。
+## hi_go ( /çiɡo/ )
 
-This is a site mainly for technical topics, where I write down notes I want to keep, or small know-how that "might be useful to someone else if I write it down anyway".
+{{< figure src="../img/main/me.png" title="A photo of me." width="256px" height="256px" >}}
 
-## 筆者について / About me
-
-![A Photo of me](../img/main/me.png)
-
-- hi_go ( /çiɡo/ )
-- プログラマ・フルスタックエンジニア / Programmer & Full-Stack Engineer
-- 東京在住 / Living in Tokyo, Japan
-- 最近お気に入りの言語 / Favorite languages lately：Rust, Crystal
 - GitHub: [@h1g0](https://github.com/h1g0)
 - Mail: me (at) clutte.red
+- GPG Public key: [4856 5132 065F 40F6 0441  63A0 6D5C 9C7E 29BA E7EE](../hi_go.gpg)
+- Résumé / CV: Please contact me.
 
 ## Attribution
 
