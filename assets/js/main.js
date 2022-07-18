@@ -108,7 +108,7 @@ window.onload = function () {
 function registerSearchHandler() {
   $searchInput.oninput = function(event) {
     var query = event.target.value;
-    var results = search(query);  // Perform the search
+    var results = search(`*${query}*`);  // Perform the search
 
     // Render search results
     renderSearchResults(results);
