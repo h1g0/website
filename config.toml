@@ -83,7 +83,7 @@ HasCJKLanguage = true
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/me.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = "128"
@@ -151,6 +151,13 @@ HasCJKLanguage = true
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Tags"
+    identifier        = "tags"
+    url               = "/tags/"
+    pre               = "<i class='fa fa-tags'></i>"
     weight            = 5
 
 [Languages]
