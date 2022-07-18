@@ -23,7 +23,7 @@ HasCJKLanguage = true
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
   cssFiles              = ["default","/css/syntax.css"]
-  jsFiles               = ["default"]
+  jsFiles               = ["default", "//unpkg.com/lunr-languages/lunr.stemmer.support.js", "//unpkg.com/lunr-languages/tinyseg.js", "//unpkg.com/lunr-languages/lunr.ja.js", "//unpkg.com/lunr-languages/lunr.multi.js"]
   # Sets options for highlight.js
   highlightjs           = false
   highlightjsTheme      = "github"
@@ -58,7 +58,7 @@ HasCJKLanguage = true
     navbarTitle         = "Cluttered Room"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
-    searchMenu          = false
+    searchMenu          = true
     shareMenu           = true
     languageMenu        = false
 
