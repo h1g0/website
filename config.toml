@@ -178,6 +178,7 @@ HasCJKLanguage = true
 [social]
   # Coding Communities
   github                = "h1g0"
+  twitter               = "_h1g0_"
   email                 = "me（あっと）clutte.red"
 
 [markup]
