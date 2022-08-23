@@ -8,8 +8,8 @@ layout = "about"
 
 {{< figure src="../img/main/me.png" title="A photo of me." width="256px" height="256px" >}}
 
-- GitHub: [`@h1g0`](https://github.com/h1g0)
-- Twitter: [`@_h1g0_`](https://twitter.com/_h1g0_)
+- GitHub: [@h1g0](https://github.com/h1g0)
+- Twitter: [&#64;&#95;&#104;&#49;&#103;&#48;&#95;](https://twitter.com/_h1g0_)
 - Mail: me (at) clutte.red
 - GPG Public key: [4856 5132 065F 40F6 0441  63A0 6D5C 9C7E 29BA E7EE](../hi_go.gpg)
 - Résumé / CV: Please contact me.
