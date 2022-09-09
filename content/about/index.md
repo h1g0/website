@@ -4,10 +4,11 @@ date = "2022-09-09"
 layout = "about"
 +++
 
-## hi_go ( /çiɡo/ )
+## About myself
 
 {{< figure src="../img/main/me.png" title="A photo of me." width="256px" height="256px" >}}
 
+- hi_go ( /çiɡo/ )
 - Software Engeneer
 - Living in: Tokyo, Japan
 - [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language): ja-JP, en;q=0.8, de;q=0.3
