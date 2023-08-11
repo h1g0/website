@@ -9,11 +9,10 @@ layout = "about"
 {{< figure src="../img/main/me.png" title="A photo of me." width="256px" height="256px" >}}
 
 - hi_go ( /çiɡo/ )
-- Software Engeneer
+- Software Engineer
 - Living in: Tokyo, Japan
 - [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language): ja-JP, en;q=0.8, de;q=0.3
 - Interested in: [Rust](https://www.rust-lang.org) / Information Security / etc.
-- Mail: me (at) clutte.red
 - GitHub: [@h1g0](https://github.com/h1g0)
 - Twitter: [&#64;&#95;&#104;&#49;&#103;&#48;&#95;](https://twitter.com/_h1g0_)
 - Mastodon: [@h_g@mastodon.social](https://mastodon.social/@h_g)
