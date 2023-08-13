@@ -18,8 +18,8 @@ layout = "about"
 - Mastodon: [@h_g@mastodon.social](https://mastodon.social/@h_g)
 - Keybase: [@h_g](https://keybase.io/h_g)
 - Mail: me (at) clutte.red  
-  Note: If required, messages can be encrypted using my PGP public key below!
-- PGP Public key:  [4856 5132 065F 40F6 0441  63A0 6D5C 9C7E 29BA E7EE](../hi_go.gpg)
+  - Note: If required, messages can be encrypted using my PGP public key below!
+- PGP Public key: [4856 5132 065F 40F6 0441  63A0 6D5C 9C7E 29BA E7EE](../hi_go.gpg)
 - Résumé / CV: Please contact me.
 
 ## Attribution
