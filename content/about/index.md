@@ -19,7 +19,7 @@ layout = "about"
 - Keybase: [@h_g](https://keybase.io/h_g)
 - Mail: me (at) clutte.red  
   - Note: If required, messages can be encrypted using my PGP public key below!
-- PGP Public key: [4856 5132 065F 40F6 0441  63A0 6D5C 9C7E 29BA E7EE](../hi_go.gpg)
+- PGP Public key: [3ADC FCB3 B1BB 05CD 9BE8 5CDA 379E DAEA CF54 C704](../me@clutte.red-2024-11-25.asc)
 - Résumé / CV: Please contact me.
 
 ## Attribution
